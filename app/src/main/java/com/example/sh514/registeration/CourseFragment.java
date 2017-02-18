@@ -45,6 +45,7 @@ public class CourseFragment extends Fragment {
         }
     }
 
+
     private ArrayAdapter yearAdapter;
     private Spinner yearSpinner;
     private ArrayAdapter termAdapter;
