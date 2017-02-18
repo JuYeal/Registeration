@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>국어국문학과</item>
+        <item>독어독문학과</item>
+        <item>일어일문학과</item>
+        <item>영어영문학과</item>
+        <item>불어불문학과</item>
+        <item>중어중국학과</item>
+        <item>수학과</item>
+        <item>물리학과</item>
+        <item>화학과</item>
+        <item>소비자아동학과</item>
+        <item>패션산업학과</item>
+        <item>해양학과</item>
+        <item>사회복지학과</item>
+        <item>신문방송학과</item>
+        <item>문헌정보학과</item>
+        <item>창의인재개발학과</item>
+        <item>법학과</item>
+        <item>행정학과</item>
+        <item>정치외교학과</item>
+        <item>경제학과</item>
+        <item>무역학부</item>
+        <item>기계.로봇공학</item>
+        <item>자동차공학</item>
+        <item>메카트로닉스공학</item>
+        <item>전기공학과</item>
+        <item>전자공학과</item>
+        <item>산업경영공학과</item>
+        <item>신소재공학과</item>
+        <item>안전공학과</item>
+        <item>에너지화학공학과</item>
+        <item>컴퓨터공학부</item>
+        <item>정보통신공학과</item>
+        <item>임베디드시스템공학과</item>
+        <item>경영학부</item>
+        <item>세무회계학과</item>
+        <item>동북아통상전공</item>
+        <item>한국통상전공</item>
+        <item>한국화전공</item>
+        <item>서양화전공</item>
+        <item>디자인학부</item>
+        <item>공연예술학과</item>
+        <item>체육학부</item>
+        <item>운동건강학부</item>
+        <item>컴퓨터공학부(야)</item>
+        <item>산업경영공학과(야)</item>
+        <item>무역학부(야)</item>
+        <item>경제학과(야)</item>
+        <item>전자공학과(야)</item>
+        <item>기계공학과(야)</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2016년</item>
+        <item>2017년</item>
+        <item>2018년</item>
+        <item>2019년</item>
+        <item>2020년</item>
+        <item>2021년</item>
+        <item>2022년</item>
+        <item>2023년</item>
+        <item>2024년</item>
+        <item>2025년</item>
+    </string-array>
+    <string-array name="term">
+        <item>1학기</item>
+        <item>여름학기</item>
+        <item>2학기</item>
+        <item>겨울학기</item>
+    </string-array>
+    <string-array name="graduateArea">
+        <item>일반대학원</item>
+    </string-array>
+    <string-array name="universityArea">
+        <item>교양및기타</item>
+        <item>전공</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+
+
+        <item>물류경영학과</item>
+        <item>물류시스템학과</item>
+
+        <item>교육리더십</item>
+        <item>교수설계 교육미디어</item>
+        <item>교육과정 및 수업컨설팅</item>
+        <item>상담심리</item>
+        <item>영재교육</item>
+        <item>유아교육</item>
+        <item>국어교육</item>
+        <item>영어교육</item>
+        <item>일어교육</item>
+        <item>윤리교육</item>
+        <item>일반사회교육</item>
+        <item>수학교육</item>
+        <item>물리교육</item>
+        <item>생물교육</item>
+        <item>가정교육</item>
+
+        <item>기계교육</item>
+        <item>전기교육</item>
+        <item>전자교육</item>
+        <item>컴퓨터교육</item>
+        <item>건축교육</item>
+        <item>미술교육</item>
+        <item>체육교육</item>
+
+        <item>일반행정학과</item>
+        <item>사법행정학과</item>
+        <item>위기관리학과</item>
+        <item>사회복지학과</item>
+        <item>의회정치 안보정책학과</item>
+    </string-array>
+    <string-array name="universityRefinementMajor">
+        <item>교양필수</item>
+        <item>교양선택</item>
+        <item>교직</item>
+        <item>군사학</item>
+        <item>교양필수</item>
+        <item>일반선택</item>
+
+    </string-array>
+    <string-array name="universityMajor">
+        <item>국어국문학과</item>
+        <item>불어불문학과</item>
+        <item>행정학과</item>
+        <item>무역학과</item>
+        <item>경영학과</item>
+        <item>문헌정보학과</item>
+        <item>한국어교육학과</item>
+        <item>경제학과</item>
+        <item>영어영문학과</item>
+        <item>중국학과</item>
+        <item>신문방송학과</item>
+        <item>동북아통상학과</item>
+        <item>교육학과</item>
+        <item>윤리학과</item>
+        <item>도시행정학과</item>
+        <item>독어독문학과</item>
+        <item>법학과</item>
+        <item>사회복지학과</item>
+        <item>수학과</item>
+        <item>물리학과</item>
+        <item>화학과</item>
+        <item>생명과학과</item>
+        <item>소비자아동학과</item>
+        <item>의류학과</item>
+        <item>뷰티산업학과</item>
+        <item>기계공학과</item>
+        <item>건축학과</item>
+        <item>컴퓨터공학과</item>
+        <item>도시건설공학과</item>
+        <item>전기공학과</item>
+        <item>산업경영공학과</item>
+        <item>정보통신공학과</item>
+        <item>환경에너지공학과</item>
+        <item>전자공학과</item>
+        <item>신소재공학과</item>
+        <item>임베디드시스템공학과</item>
+        <item>에너지화학공학과</item>
+        <item>건설환경공학과</item>
+        <item>안전공학과</item>
+        <item>생명나노바이오공학과</item>
+        <item>체육학과</item>
+        <item>미술학과</item>
+        <item>디자인학과</item>
+
+    </string-array>
+
+
+</resources>
